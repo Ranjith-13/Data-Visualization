@@ -1,4 +1,4 @@
-A small Data Visualization project of a Dashboard using Tableau 
+A small Data Visualization project of a Dashboard created using Tableau 
 
 Netflix Movies and TV Shows Dashboard
 
